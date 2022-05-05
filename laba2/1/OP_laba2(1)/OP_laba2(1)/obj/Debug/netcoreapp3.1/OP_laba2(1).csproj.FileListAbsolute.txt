@@ -1,0 +1,14 @@
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).csproj.AssemblyReference.cache
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).GeneratedMSBuildEditorConfig.editorconfig
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).AssemblyInfoInputs.cache
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).AssemblyInfo.cs
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).csproj.CoreCompileInputs.cache
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\bin\Debug\netcoreapp3.1\OP_laba2(1).exe
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\bin\Debug\netcoreapp3.1\OP_laba2(1).deps.json
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\bin\Debug\netcoreapp3.1\OP_laba2(1).runtimeconfig.json
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\bin\Debug\netcoreapp3.1\OP_laba2(1).runtimeconfig.dev.json
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\bin\Debug\netcoreapp3.1\OP_laba2(1).dll
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\bin\Debug\netcoreapp3.1\OP_laba2(1).pdb
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).dll
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).pdb
+E:\кпи топ\ОП\laba2\1\OP_laba2(1)\OP_laba2(1)\obj\Debug\netcoreapp3.1\OP_laba2(1).genruntimeconfig.cache

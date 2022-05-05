@@ -1,0 +1,14 @@
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\bin\Debug\netcoreapp3.1\OP_laba3(3).exe
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\bin\Debug\netcoreapp3.1\OP_laba3(3).deps.json
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\bin\Debug\netcoreapp3.1\OP_laba3(3).runtimeconfig.json
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\bin\Debug\netcoreapp3.1\OP_laba3(3).runtimeconfig.dev.json
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\bin\Debug\netcoreapp3.1\OP_laba3(3).dll
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\bin\Debug\netcoreapp3.1\OP_laba3(3).pdb
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).csproj.AssemblyReference.cache
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).GeneratedMSBuildEditorConfig.editorconfig
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).AssemblyInfoInputs.cache
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).AssemblyInfo.cs
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).csproj.CoreCompileInputs.cache
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).dll
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).pdb
+E:\кпи топ\ОП\laba3\OP_laba3(3)\OP_laba3(3)\obj\Debug\netcoreapp3.1\OP_laba3(3).genruntimeconfig.cache
